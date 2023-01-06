@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+*{
+    font-family:"Roboto";
+}
+.logo{
+    height:70px;
+    width:80px;
+    padding:5px;
+}
+#navitem1{
+    color:#323f4b;
+}
+#navitem2{
+    color:#323f4b;
+}
+#navitem3{
+    color:#323f4b;
+}
+#navitem4{
+    color:#323f4b;
+}
+.banner-section-bg-container{
+    height:100vh;
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+}
+.banner-heading{
+    font-size:45px;
+    color:white;
+    font-weight:300;
+}
+.banner-para{
+    font-size:24px;
+    color: #f5f7fa;
+    font-weight: 300;
+}
+.banner-button1{
+    color:white;
+    height:45px;
+    width:130px;
+    background-color: #d0b200;
+    border-radius: 5px;
+    border-width: 0;
+    margin-right: 10px;
+}
+.banner-button2{
+    background-color: transparent;
+    height:45px;
+    width:130px;
+    color: #d0b200;
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    margin-right: 10px;
+
+}
